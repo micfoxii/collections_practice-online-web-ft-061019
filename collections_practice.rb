@@ -14,8 +14,8 @@ def swap_elements
   
 end
 
-def reverse_array
-  
+def reverse_array(array)
+array.sort
 end
 
 def kesha_maker
