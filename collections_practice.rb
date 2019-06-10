@@ -1,5 +1,5 @@
-def sort_array_asc
-  
+def sort_array_asc(array)
+  array.sort
 end
 
 def sort_array_desc
@@ -14,8 +14,7 @@ def swap_elements
   
 end
 
-def reverse_array(array)
-array.sort
+def reverse_array
 end
 
 def kesha_maker
